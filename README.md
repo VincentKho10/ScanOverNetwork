@@ -22,3 +22,5 @@ How to use:
 
 # Usage
 To make it public put your executable on shared a folder. then everyone with access to that shared folder could use your scanner
+
+# Contributing
