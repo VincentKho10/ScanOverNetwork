@@ -50,6 +50,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+scanned
 
 # Translations
 *.mo
@@ -138,6 +139,8 @@ celerybeat.pid
 .env
 .envrc
 .venv
+.venv3.7
+.venv32
 env/
 venv/
 ENV/
